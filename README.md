@@ -1,8 +1,14 @@
 # Pencil vs Pen Image Classification (PyTorch)
 
-# This project scans an image of a pen or pencil and determines which writing utensil is in the image. 
+A Deep Learning Project that explores **single-label**, **multi-class**, and **multi-label** using PyTorch. The goal was to use my own dataset of Pens and Pencils to train a Convolutional Neural Network Model that can make accurate predictions about any image that contains a pencil, pen, or both. 
 
-This project was largely built on Google Collabs with PyTorch. It utilizes CNN Neural Networks along with pre-processing to scan images and make predictions. The CNN Neural Network is trained on a Dataset of 280 images of Pens and Pencils. I created this dataset myself by taking pictures of pens and pencils from different angles, lighting conditions, and surfaces. 
+# Project Highlights
+- Created and Trained CNN Models using **PyTorch**
+- Developed pipelines for **binary**,**multi-class** and **multi-label** classification
+- Visualized results with **matplotlib** and **confusion matrices**
+- Documented results in **Google Collabs**
+
+# This project scans an image of a pen or pencil and determines which writing utensil is in the image. 
 
 # Model Architecture
 - 3 Layer CNN
