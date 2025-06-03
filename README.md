@@ -30,4 +30,10 @@ A Deep Learning Project that explores **single-label**, **multi-class**, and **m
 # Final Results
 - Train Accuracy: %
 - Test Accuracy: %
-- 
+
+
+# What I Learned
+- How to create my own DataSets using both ImageFolders and CSV Files
+- How to use CNN architectures to classify images
+- When to use CrossEntropyLoss and when to use BinaryCrossEntropyLoss
+- How to address Overfitting by using Dropout() layers and BatchNormalization.
