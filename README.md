@@ -14,9 +14,9 @@ A Deep Learning Project that explores **single-label**, **multi-class**, and **m
 
 | Variation     | Description                             | Accuracy | Folder |
 |---------------|-----------------------------------------|----------|--------|
-| 🟢 Single-label (Binary) | Classify between pen vs pencil                 | 91%      | [`/single-label`](./single-label) |
-| 🔵 Multi-class          | Classify pen, pencil, marker, crayon, etc.   | 89%      | [`/multi-class`](./multi-class)  |
-| 🟣 Multi-label          | Detect all objects in an image (e.g. pen + pencil) | 88%      | [`/multi-label`](./multi-label)  |
+| 🟢 Single-label (Binary) | Classify between pen and pencil                 | 91%      | [`/single-label`](./single-label) |
+| 🔵 Multi-class          | Classify pen, pencil, marker, and crayon  | 89%      | [`/multi-class`](./multi-class)  |
+| 🟣 Multi-label          | Classify pen, pencil or both (e.g. pen + pencil) | 88%      | [`/multi-label`](./multi-label)  |
 
 ---
 
