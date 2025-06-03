@@ -12,9 +12,9 @@ A Deep Learning Project that explores **single-label**, **multi-class**, and **m
 
 # Technology Used
 - GoogleCollabs
-- PyTorch, PyTorchVision, PyTorchUtils,
+- Python, PyTorch, PyTorchVision, PyTorchUtils,
 - SkLearnMetrics
-- MatPlotLib
+- MatPlotLib for Visualization
 
 # Variations of Model
 
@@ -30,12 +30,13 @@ A Deep Learning Project that explores **single-label**, **multi-class**, and **m
 - 3 Layer CNN
 - ReLU Activation Functions
 - MaxPooling & Dropout
-- CrossEntropy Loss Function
+- Cross-Entropy Loss Function
 - Adam Optimizer
 
-# Final Results
-- Train Accuracy: %
-- Test Accuracy: %
+# Visualization
+- Training vs Validation Plots
+- Confusion Matrix
+- Predictions with Labels
 
 
 # What I Learned
