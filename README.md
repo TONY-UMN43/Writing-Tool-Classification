@@ -1,4 +1,4 @@
-# Pencil vs Pen Image Classification (PyTorch)
+# Writing Tool Classification (PyTorch)
 
 A Deep Learning Project that explores **single-label**, **multi-class**, and **multi-label** using PyTorch. The goal was to use my own dataset of Pens and Pencils to train a Convolutional Neural Network Model that can make accurate predictions about any image that contains a pencil, pen, or both. 
 
