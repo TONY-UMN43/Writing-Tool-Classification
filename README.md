@@ -6,11 +6,21 @@ A Deep Learning Project that explores **single-label**, **multi-class**, and **m
 - Created and Trained CNN Models using **PyTorch**
 - Developed pipelines for **binary**,**multi-class** and **multi-label** classification
 - Visualized results with **matplotlib** and **confusion matrices**
-- Documented results in **Google Collabs**
+- Documented results in **Google Collabs** 
 
 # This project scans an image of a pen or pencil and determines which writing utensil is in the image. 
 
-# Model Architecture
+# Variations of Model
+
+| Variation     | Description                             | Accuracy | Folder |
+|---------------|-----------------------------------------|----------|--------|
+| 🟢 Single-label (Binary) | Classify between pen vs pencil                 | 91%      | [`/single-label`](./single-label) |
+| 🔵 Multi-class          | Classify pen, pencil, marker, crayon, etc.   | 89%      | [`/multi-class`](./multi-class)  |
+| 🟣 Multi-label          | Detect all objects in an image (e.g. pen + pencil) | 88%      | [`/multi-label`](./multi-label)  |
+
+---
+
+# Model Architecture (Binary)
 - 3 Layer CNN
 - ReLU Activation Functions
 - MaxPooling & Dropout
