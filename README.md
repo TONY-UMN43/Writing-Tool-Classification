@@ -25,9 +25,9 @@ A Deep Learning Project that explores **single-label**, **multi-class**, and **m
 
 | Variation     | Description                             | Training Accuracy | Testing Accuracy | Folder |
 |---------------|-----------------------------------------|----------|--------|--------|
-| ⚪️ Binary-Class  | Classify between pen and pencil                 | 94% | 85%    | [`/Binary-Class`](./binary-class) |
-| 🔵 Multi-Class          | Classify between pen, pencil, marker, and crayon  | 89% | 74%     | [`/Multi-Class`](./multi-class)  |
-| 🔴 Multi-Label          | Classify pen, pencil or both (e.g. pen + pencil) | 88% | 71%    | [`/Multi-Label`](./multi-label)  |
+| ⚪️ Binary-Class  | Classify between pen and pencil                 | 94% | 85%    | [`/Binary-Class`](./Binary-Class) |
+| 🔵 Multi-Class          | Classify between pen, pencil, marker, and crayon  | 89% | 74%     | [`/Multi-Class`](./Multi-Class)  |
+| 🔴 Multi-Label          | Classify pen, pencil or both (e.g. pen + pencil) | 88% | 71%    | [`/Multi-Label`](./Multi-Label)  |
 
 ---
 
