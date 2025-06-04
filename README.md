@@ -18,11 +18,11 @@ A Deep Learning Project that explores **single-label**, **multi-class**, and **m
 
 # Variations of Model
 
-| Variation     | Description                             | Accuracy | Folder |
-|---------------|-----------------------------------------|----------|--------|
-| ⚪️ Single-label (Binary) | Classify between pen and pencil                 | 91%      | [`/single-label`](./single-label) |
-| 🔵 Multi-class          | Classify between pen, pencil, marker, and crayon  | 89%      | [`/multi-class`](./multi-class)  |
-| 🔴 Multi-label          | Classify pen, pencil or both (e.g. pen + pencil) | 88%      | [`/multi-label`](./multi-label)  |
+| Variation     | Description                             | Training Accuracy | Training Accuracy | Folder |
+|---------------|-----------------------------------------|----------|--------||--------|
+| ⚪️ Single-label (Binary) | Classify between pen and pencil                 | 94%  85%    | [`/single-label`](./single-label) |
+| 🔵 Multi-class          | Classify between pen, pencil, marker, and crayon  | 89% 74%     | [`/multi-class`](./multi-class)  |
+| 🔴 Multi-label          | Classify pen, pencil or both (e.g. pen + pencil) | 88%  71%    | [`/multi-label`](./multi-label)  |
 
 ---
 
