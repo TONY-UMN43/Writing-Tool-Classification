@@ -1,5 +1,10 @@
 # Writing Tool Classification (PyTorch)
 
+## License
+This project is for **viewing purposes only**.  
+Do not copy, modify, or redistribute any part of this code without explicit permission.  
+© 2025 Tony Akinyemi. All rights reserved.
+
 A Deep Learning Project that explores **single-label**, **multi-class**, and **multi-label** using PyTorch. The goal was to use my own dataset of Pens and Pencils to train a Convolutional Neural Network Model that can make accurate predictions about any image that contains a pencil, pen, or both. 
 
 # Project Highlights
