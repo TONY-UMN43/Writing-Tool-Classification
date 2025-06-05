@@ -25,8 +25,8 @@ A Deep Learning Project that explores **single-label**, **multi-class**, and **m
 
 | Variation     | Description                             | Training Accuracy | Testing Accuracy | Folder |
 |---------------|-----------------------------------------|----------|--------|--------|
-| ⚪️ Binary-Class  | Classify between Wooden pen and pencil                 | 94% | 85%    | [`/Binary-Class`](./Binary-Class) |
-| 🔵 Multi-Class          | Classify between Wooden pen, pencil, marker, and crayon  | 89% | 74%     | [`/Multi-Class`](./Multi-Class)  |
+| ⚪️ Binary-Class  | Classify between Wooden pen and wooden pencil                 | 94% | 85%    | [`/Binary-Class`](./Binary-Class) |
+| 🔵 Multi-Class          | Classify between pen, wooden pencil, marker, and crayon  | 89% | 74%     | [`/Multi-Class`](./Multi-Class)  |
 | 🔴 Multi-Label          | Classify pen, Wooden pencil or both (e.g. pen + Wooden pencil) | 88% | 71%    | [`/Multi-Label`](./Multi-Label)  |
 
 ---
