@@ -22,11 +22,13 @@ A Deep Learning Project that explores **single-label**, **multi-class**, and **m
 - MatPlotLib for Visualization
 
 # DataSets
+- All DataSets were created by me
+
 | Variation     | Training Set Size                             | Validation Set Size | Test Set Size |
 |---------------|-----------------------------------------|----------|--------|
-| ⚪️ Binary-Class  | 196             | 42 | 42    | 
-| 🔵 Multi-Class          | 406  | 87 | 87    | 
-| 🔴 Multi-Label          | 294 | 63 | 63    | 
+| ⚪️ Binary-Class  | 196 Images           | 42 Images | 42  Images  | 
+| 🔵 Multi-Class          | 406 Images | 87 Images | 87 Images   | 
+| 🔴 Multi-Label          | 294 Images | 63 Images | 63 Images   | 
 # Variations of Model
 
 | Variation     | Description                             | Training Accuracy | Testing Accuracy | Folder | DataSet |
