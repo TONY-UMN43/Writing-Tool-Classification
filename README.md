@@ -21,6 +21,12 @@ A Deep Learning Project that explores **single-label**, **multi-class**, and **m
 - SkLearnMetrics
 - MatPlotLib for Visualization
 
+# DataSets
+| Variation     | Training Set Size                             | Validation Set Size | Test Set Size |
+|---------------|-----------------------------------------|----------|--------|
+| ⚪️ Binary-Class  | 196             | 42 | 42    | 
+| 🔵 Multi-Class          | 406  | 87 | 87    | 
+| 🔴 Multi-Label          | 294 | 63 | 63    | 
 # Variations of Model
 
 | Variation     | Description                             | Training Accuracy | Testing Accuracy | Folder | DataSet |
