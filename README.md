@@ -47,6 +47,13 @@ A Deep Learning Project that explores **single-label**, **multi-class**, and **m
 - Cross-Entropy Loss Function
 - Adam Optimizer
 
+# Model Architecture (Multi-Class)
+- 4 Layer CNN
+- ReLU Activation Functions
+- MaxPooling & Dropout
+- BCEWithLogitsLoss Loss Function
+- Adam Optimizer
+
 # Visualization
 - Training vs Validation Plots
 - Confusion Matrix
