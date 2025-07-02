@@ -55,7 +55,7 @@ A Deep Learning Project that explores **single-label**, **multi-class**, and **m
 - Adam Optimizer
 
 # Multi-Class Model File
-🔗 [Download the pretrained model (79 MB)](https://drive.google.com/file/d/1fcgxHiaBsN4wouQ0ZbU2qckgf6nHOKHf/view?usp=sharing)]
+🔗 [Download the pretrained model (79 MB)](https://drive.google.com/file/d/1fcgxHiaBsN4wouQ0ZbU2qckgf6nHOKHf/view?usp=sharing)
 
 # Model Architecture (Multi-Class)
 - Pre-Trained ResNet18
