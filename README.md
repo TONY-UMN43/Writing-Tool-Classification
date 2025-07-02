@@ -12,7 +12,7 @@ A Deep Learning Project that explores **single-label**, **multi-class**, and **m
 - Developed pipelines for **binary**,**multi-class** and **multi-label** classification
 - Visualized results with **matplotlib** and **confusion matrices**
 - Documented results in **Google Collabs**
-- 
+  
 # This project scans an image of a pen or pencil and determines which writing utensil is in the image. 
 
 # Technology Used
