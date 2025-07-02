@@ -54,11 +54,14 @@ A Deep Learning Project that explores **single-label**, **multi-class**, and **m
 - BCEWithLogitsLoss Loss Function
 - Adam Optimizer
 
+# Multi-Class Model File
+🔗 [Download the pretrained model (79 MB)](https://drive.google.com/file/d/1fcgxHiaBsN4wouQ0ZbU2qckgf6nHOKHf/view?usp=sharing)]
+
 # Model Architecture (Multi-Class)
-- 4 Layer CNN
-- ReLU Activation Functions
-- MaxPooling & Dropout
-- BCEWithLogitsLoss Loss Function
+- Pre-Trained ResNet18
+- Froze the CNN Layers
+- Changed Final Classifier layer to 4 neurons
+- Cross-Entropy Loss Function
 - Adam Optimizer
 
 # Visualization
