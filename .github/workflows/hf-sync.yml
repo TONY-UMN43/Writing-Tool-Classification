@@ -20,9 +20,9 @@ jobs:
       env:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
       run: |
-        git clone https://huggingface.co/username/repo-name hf_repo
+        git clone https://huggingface.co/tony-901/Writing_Tool_Classifier hf_repo
         rsync -av --exclude='.git' ./ hf_repo/
         cd hf_repo
         git add .
         git commit -m "Sync from GitHub" || echo "No changes"
-        git push https://username:${HF_TOKEN}@huggingface.co/username/repo-name main
+        git push https://tony-901:${HF_TOKEN}@huggingface.co/tony-901/Writing_Tool_Classifier main
